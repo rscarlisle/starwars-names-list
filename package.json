@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rscarlisle/starwars-names-list.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Randy Carlisle <cisolutionsinc@gmail.com> (http://randallcarlisle.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rscarlisle/starwars-names-list/issues"
+  },
+  "homepage": "https://github.com/rscarlisle/starwars-names-list",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
