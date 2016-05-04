@@ -8,3 +8,5 @@
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
 Get random names from Star Wars characters.
+
+The purpose of this project is to write a JavaScript library in which the user is able to randomly select a star wars name, or to add a new name to the list. It involves setting up a GitHub repo, publishing a module to npm, setting up a test suite with code coverage reporting - using Karma, Mocha, and Chai, adding continuous integration, adding ES6 (ES2015) with Babel, configuring Webpack, and distributing the library as a universal JavaScript  module - to be consumable by both the browser and node.
